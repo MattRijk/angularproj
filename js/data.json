@@ -1,0 +1,46 @@
+[
+  {
+    "name":"Larry Garner",
+    "shortname":"Larry_Garner",
+    "reknown":"Louisiana blues musician.",
+    "bio":"Garner won the International Blues Challenge in 1988, and his first two albums, Double Dues and Too Blues, were released by the British JSP label. ."
+  },
+  {
+    "name":"Wynonie Harris",
+    "shortname":"Wynonie_Harris",
+    "reknown":"Fifteen Top 10 hits.",
+    "bio":"Wynonie Harris(August 24, 1915 – June 14, 1969), born in Omaha, Nebraska, was an American blues shouter and rhythm and blues singer of upbeat songs."
+  },
+   {
+    "name":"Jimi Hendrix",
+    "shortname":"Jimi_Hendrix",
+    "reknown":"One of most influential guitarists",
+    "bio":"Jimi Hendrix (born Johnny Allen Hendrix; November 27, 1942 – September 18, 1970) was an American guitarist, singer, and songwriter."
+  },
+  {
+    "name":"Linsey Alexander",
+    "shortname":"Linsey_Alexander",
+    "reknown":"Chicago blues for two decades.",
+    "bio":"Linsey Alexander (born July 23, 1942) is a blues songwriter, vocalist, and guitarist. Alexander has been a fixture in Chicago North Side clubs for nearly two decades. "
+  },
+  {
+    "name":"Susan Tedeschi",
+    "shortname":"Susan_Tedeschi",
+    "reknown":"Tedeschi Trucks Band.",
+    "bio":"Susan Tedeschi (born November 9, 1970) is an American blues and soul musician known for her singing voice, guitar playing, and stage presence." 
+  },
+  {
+    "name":"Robert Johnson", 
+    "shortname":"Robert_Johnson",
+    "reknown":"King of Delta Blues.",
+    "bio":"Robert Leroy Johnson (May 8, 1911 – August 16, 1938) was an American singer-songwriter and musician. ."
+  },
+  {
+    "name":"Reneé Austin",
+    "shortname":"Reneé_Austin",
+    "reknown":"Wide range of roots styles.",
+    "bio":"Reneé Austin (born c. 1966)is an American rhythm and blues and soul blues singer, guitarist and songwriter."
+  }
+
+]
+	
